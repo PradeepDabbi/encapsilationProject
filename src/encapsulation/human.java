@@ -8,6 +8,7 @@ public class human {
 		System.out.println(obj.age);
 		System.out.println(obj.name);
 	}
+	dsa
 
 }
 class man{
